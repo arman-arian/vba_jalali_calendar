@@ -1,14 +1,18 @@
 # Microsoft VBA Code for Jalali(Shamsi) Calendar
-This code is VBA functions for convert jalali date to gregorian date and vice versa. Jalali calendar is also known as 
-Jalali, Persian, Khayyami, Khorshidi, Shamsi canlendar
+This code is VBA functions for convert jalali date to Gregorian date and vice versa. Jalali calendar is also known as 
+Jalali, Persian, Khayyami, Khorshidi, Shamsi calendar
+You can use this code in MS Access, MS Excel or other vba compatible environments
+Excel example provided in code 
+if you know Persian you can read "Persian Read Me.txt".
 
+you can find tutorial about how to write vba in  ms excel (http://www.tutorialspoint.com/vba/vba_excel_macros.htm)
 
 ## Origin code
 this code is just vba port for js jalali js code (https://github.com/jalaali/jalaali-js) by Behrang (https://github.com/behrang)
 
 
 ## Description
-you can find usefull comments in code 
+you can find useful comments in code 
 
 
 ```vba
@@ -42,3 +46,13 @@ End Sub
 
 ```
 
+
+## VBA Tutorial
+You can find an elementary vba tutorial in "Persian VBA Elementary Tutorial.pdf". this is not organized or complete tutorial .
+it is just elementary tutorial written for a friend in instance messenger .
+
+
+
+## License
+
+MIT
